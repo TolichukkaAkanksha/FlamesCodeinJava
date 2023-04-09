@@ -25,9 +25,6 @@ class maincode{
        
         for(int i=0;i<name1.length();i++)
 
-
-
-
         {
             for(int j=0;j<name2.length();j++)
             {
@@ -65,13 +62,6 @@ class maincode{
         break;
         case 6:
         System.out.println("You both are Sblings");
-     }
-
-     
-
-
-       
-       
-        
+     }         
     }
 }
